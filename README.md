@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ed423
-- I'm a second year Computer Science Major at UBC
+- Looking for new opportunities!
 
 <!---
 ed423/ed423 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
