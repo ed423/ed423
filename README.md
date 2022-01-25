@@ -1,4 +1,4 @@
-## Hello, I'm Ed (he/him) 👋
+### Hello, I'm Ed (he/him) 👋
 
 - Looking for new opportunities!
 - I use GitHub to track my learning process as well as all my projects, so there may be repositories that I've made during my learning process mixed in with my projects on this GitHub account. 
