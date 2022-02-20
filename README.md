@@ -1,7 +1,5 @@
 ### Hello, I'm Ed (he/him) 👋
 
-What I'm currently learning
-
 **Projects that I'm currently working on:**
 - A grounding app that aims to reduces stress/anxiety through simple breathing/mental exercises, as mental health is an aspect of life that is often overlooked, and is something that I personally see as vital in my daily life.
 
