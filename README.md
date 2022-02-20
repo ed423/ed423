@@ -11,7 +11,7 @@ I am looking for internships for Summer (May-August) 2022, and Fall (September-D
 - Python
 
 **Why I use GitHub:**
-- I use GitHub to track my learning process as well as all my projects, so there may be repositories that I've made during my learning process mixed in with my projects on this GitHub account. 
+I use GitHub to track my learning process as well as all my projects, so there may be repositories that I've made during my learning process mixed in with my projects on this GitHub account. 
 
 Thank you for reading!
 <!---
