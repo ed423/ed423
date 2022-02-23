@@ -7,7 +7,6 @@ I am looking for internships for Summer (May-August) 2022, and Fall (September-D
 - My personal portfolio website to showcase the projects that I've worked on and what I'm currently working on.
 
 **What I'm currently learning:**
-Full-stack development, including
 - JavaScript, ReactJS, NodeJS
 - Python
 
