@@ -1,6 +1,6 @@
 ### Hello, I'm Ed (he/him) 👋
 
-I am looking for internships for Summer (May-August) 2022, and Fall (September-December) 2022. Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/edwin-chow-a45754176/) or email (edwinchow1110@gmail.com)!
+I am looking for internships for Summer (May-August) 2022, and Fall (September-December) 2022. Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/edwin-chow-a45754176/) or email (edwinchow1110@gmail.com)!
 
 **Projects that I'm currently working on:**
 - A grounding app that aims to reduces stress/anxiety by guiding the user through simple breathing/mental exercises. Mental health is an aspect of life that is often overlooked, and is something that I personally see as vital in my daily life.
