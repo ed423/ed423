@@ -4,7 +4,7 @@ I am looking for internships for Summer (May-August) 2022, and Fall (September-D
 
 **Projects that I'm currently working on:**
 - A grounding app that aims to reduces stress/anxiety by guiding the user through simple breathing/mental exercises. Mental health is an aspect of life that is often overlooked, and is something that I personally see as vital in my daily life.
-- A website that uses NHL api to determine the number of games an NHL team can lose before they are eliminated from the playoffs. As a Vancouver Canucks fan, I was inspired to make this because I wanted to know when to stop hoping that the Canucks can make the playoffs :')
+- A website that uses NHL api to determine the number of games an NHL team can lose before they are eliminated from the playoffs. As a Vancouver Canucks fan, I was inspired to make this because I wanted to know when to stop hoping that the Canucks can make the playoffs
 - My personal portfolio website to showcase the projects that I've worked on and what I'm currently working on.
 
 **What I'm currently learning:**
