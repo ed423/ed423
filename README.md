@@ -9,7 +9,7 @@ I am a second year Computer Science student at the University of British Columbi
 - Python
 
 **Why I use GitHub:**
-I use GitHub to track my learning process as well as all my projects, so there may be repositories that I've made during my learning process mixed in with my projects on this GitHub account. 
+I use GitHub to track my learning process as well as all my projects, so there may be repositories that I've made during my learning process as well as my projects on this GitHub account. 
 
 Thank you for reading!
 <!---
