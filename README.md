@@ -5,7 +5,7 @@ I am looking for internships for Fall (September-December) 2022 and Spring (Janu
 I am a second year Computer Science student at the University of British Columbia.
 
 **What I'm currently learning:**
-- JavaScript, ReactJS, NodeJS
+- JavaScript, Vue.JS
 - Python
 
 **Why I use GitHub:**
