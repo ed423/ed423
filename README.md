@@ -5,7 +5,7 @@ I am looking for internships for Winter (January-April) 2023 and Summer (April-A
 I am a second year Computer Science student at the University of British Columbia.
 
 **What I'm currently learning:**
-- JavaScript, NodeJS
+- JavaScript, NodeJS, MongoDB, Express
 - Python
 
 **Why I use GitHub:**
