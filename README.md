@@ -2,7 +2,7 @@
 
 I am looking for internships for Winter (January-April) 2023 and Summer (April-August) 2023. Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/edwin-chow-a45754176/) or email (edwinchow1110@gmail.com)!
 
-I am a second year Computer Science student at the University of British Columbia.
+I am a third year Computer Science student at the University of British Columbia.
 
 **What I'm currently learning:**
 - JavaScript, Node.JS, MongoDB, Express
