@@ -5,7 +5,8 @@ I am looking for internships for Summer (May-September) 2024. Feel free to reach
 I am a third year Computer Science student at the University of British Columbia.
 
 **What I'm currently learning:**
-- Computer Vision
+- Computer vision/graphics
+- Backend development
 
 **Why I use GitHub:**
 I use GitHub to track my learning process as well as all my projects, so there may be repositories that I've made during my learning process as well as my projects on this GitHub account. 
