@@ -1,6 +1,6 @@
 ### Hello, I'm Ed (he/him) 👋
 
-I am looking for internships for Summer (May-September) 2024. Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/edwin-chow-a45754176/) or email (edwinchow1110@gmail.com)!
+I am looking for Software Engineering New Grad roles for May 2025. Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/edwin-chow-a45754176/) or email (edwinchow1110@gmail.com)!
 
 I am a third year Computer Science student at the University of British Columbia.
 
