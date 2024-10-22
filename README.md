@@ -5,7 +5,7 @@
 I am a fourth year Computer Science student at the University of British Columbia.
 
 **What I'm currently learning:**
-- Computer vision/graphics
+- Networking
 - Backend development
 
 **Why I use GitHub:**
