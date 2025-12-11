@@ -1,4 +1,4 @@
-### Hello, I'm Ed (he/him) 👋
+### Hello, I'm Edwin.
 
 i enjoy vibecoding.
 <!---
